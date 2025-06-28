@@ -3,6 +3,7 @@ langchain-ollama
 langchain-chroma
 pandas
 sentence-transformers
+PyPDF2
 
 
 
